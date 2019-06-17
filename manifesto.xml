@@ -29,5 +29,6 @@
     <resultados>
         <resultado path="https://github.com/87Beggar/PRCTPC6/blob/master/mapa-completo.ttl">Ontologia final gerada</resultado>
         <resultado path="https://github.com/87Beggar/PRCTPC6/blob/master/freguesias2ttl.js">Ficheiro javascript para a conversão</resultado>
+        <resultado path="https://github.com/87Beggar/PRCTPC6">Link do repositório GitHub</resultado>
     </resultados>
 </manifesto>
