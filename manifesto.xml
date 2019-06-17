@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TPC6</id>
+	    <título>Integração das freguesias na ontologia do mapa</título>
+        <subtítulo></subtítulo>
+        <dinício>25 de Março de 2019</dinício>
+        <dfim>16 de Junho de 2019</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>http://www.di.uminho.pt/~jcr</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <nome>Alexandre Dias</nome>
+            <id>78425</id>
+            <email>a78425@alunos.uminho.pt</email>
+            <website>https://github.com/87Beggar/PRCTPC6</website>
+            <foto path=""/>
+        </elemento>
+    </equipe>
+    <resumo>
+	<para>Para realizar este trabalho foi descarregado o dataset de freguesias do dados.gov em json. </para>
+	<para>Posteriormente foi realizado um ficheiro javascript para converter o dataset para ttl, e o dataset gerado e a ontologia existente foram concatenados.</para>
+    </resumo>
+    <resultados>
+        <resultado path="https://github.com/87Beggar/PRCTPC6/blob/master/mapa-completo.ttl">Ontologia final gerada</resultado>
+        <resultado path="https://github.com/87Beggar/PRCTPC6/blob/master/freguesias2ttl.js">Ficheiro javascript para a conversão</resultado>
+    </resultados>
+</manifesto>
